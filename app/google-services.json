@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762273945651",
+    "project_id": "myface-a2",
+    "storage_bucket": "myface-a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762273945651:android:f5abb9e38ae43ec354eb46",
+        "android_client_info": {
+          "package_name": "com.anshul.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762273945651-loap6g9eshd3078gnqb0rrh50vhtk6av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anshul.facedetection",
+            "certificate_hash": "73aaff847a7e13133ad6b13acc2dacb713a3a8ef"
+          }
+        },
+        {
+          "client_id": "762273945651-7balfohq5rq2l480eh1tj023ma0g3908.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-YChasmhdxnSZmW_U3Qmep_ZkPs50HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762273945651-7balfohq5rq2l480eh1tj023ma0g3908.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
